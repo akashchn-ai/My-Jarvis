@@ -402,6 +402,5 @@ Engineered by a developer building a real-world JARVIS-style assistant.
 ⭐ **Star the repository to support the journey to Mark 100.**
 
 | Platform | Link |
-| --- | --- |
-| YouTube | [@FatihMakes](https://www.youtube.com/@FatihMakes) |
-| Instagram | [@fatihmakes](https://www.instagram.com/fatihmakes) |
+| :--- | :--- |
+| LinkedIn | [akash-chauhan2712](https://www.linkedin.com/in/akash-chauhan2712) |
